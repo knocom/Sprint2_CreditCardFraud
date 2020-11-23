@@ -1,7 +1,7 @@
 # Sprint2_CreditCardFraud
 EDA Databricks Notebook Files regarding the Credit Card Fraud Prediction Project for Eskwelabs' Sprint 2
 
-# CreditCardFraud-ProjectDataset_EDA
+# CreditCardFraud-ProjectDataset_EDA.dbc
 This Databricks Notebook contains some of the EDA our team did during the Credit Card Fraud Prediction Project.
 We were able to extract and work with information such as various datetime columns, merchant distance, city locations, shopping categories,age groups, etc.
 
@@ -26,6 +26,6 @@ I.) Distribution of Fraud Incidence based on Merchant Distance
 
 J.) Distribution of Fraud Incidence based on State (Count and $ Amount)
 
-# CreditCardFraud_XGBoostForProject
+# CreditCardFraud_XGBoostForProject.dbc
 
 This Databricks Notebook contains our team's attempt to predict Credit Card Fraud using the XG Boost Algorithm. We tried using three different random seeds when doing the train-test split of the data. (42,75,99) We were able to get accuracy scores between 92-94% from using the XG Boost Algorithm.
