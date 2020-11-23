@@ -1,8 +1,8 @@
 # Sprint2_CreditCardFraudDetection
-EDA Databricks Notebook Files regarding the Credit Card Fraud Prediction Project for Eskwelabs' Sprint 2
+EDA Databricks Notebook Files regarding the Credit Card Fraud Detection Project for Eskwelabs' Sprint 2. We were tasked to develop a machine learning algorithm which could detect if a given transaction could be considered a fraudulent transaction or not.
 
 # CreditCardFraud-ProjectDataset_EDA.dbc
-This Databricks Notebook contains some of the EDA our team did during the Credit Card Fraud Prediction Project.
+This Databricks Notebook contains some of the Exploratory Data Analysis (EDA) our team did during the Credit Card Fraud Detection Project.
 We were able to extract and work with information such as various datetime columns, merchant distance, city locations, shopping categories,age groups, etc.
 
 ## EDA Plots:
