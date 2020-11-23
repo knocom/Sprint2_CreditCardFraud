@@ -1,4 +1,4 @@
-# Sprint2_CreditCardFraud
+# Sprint2_CreditCardFraudDetection
 EDA Databricks Notebook Files regarding the Credit Card Fraud Prediction Project for Eskwelabs' Sprint 2
 
 # CreditCardFraud-ProjectDataset_EDA.dbc
