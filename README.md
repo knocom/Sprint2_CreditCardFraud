@@ -1,5 +1,5 @@
 # Sprint2_CreditCardFraudDetection
-EDA Databricks Notebook Files regarding the Credit Card Fraud Detection Project for Eskwelabs' Sprint 2. We were tasked to develop a machine learning algorithm which could detect if a given transaction could be considered a fraudulent transaction or not.
+EDA Databricks Notebook Files regarding the Credit Card Fraud Detection Project for Eskwelabs' Sprint 2. Our team (myself, [Ran](https://github.com/rheyannmagcalas), [Dan](https://github.com/Danilo-Gubaton) and Jonas) were tasked to develop a machine learning algorithm which could detect if a given transaction could be considered a fraudulent transaction or not.
 
 # CreditCardFraud-ProjectDataset_EDA.dbc
 This Databricks Notebook contains some of the Exploratory Data Analysis (EDA) our team did during the Credit Card Fraud Detection Project.
@@ -29,3 +29,5 @@ J.) Distribution of Fraud Incidence based on State (Count and $ Amount)
 # CreditCardFraud_XGBoostForProject.dbc
 
 This Databricks Notebook contains our team's attempt to predict Credit Card Fraud using the XG Boost Algorithm. We tried using three different random seeds when doing the train-test split of the data. (42,75,99) We were able to get accuracy scores between 92-94% from using the XG Boost Algorithm.
+
+*Special thanks to [Eskwelabs](https://www.eskwelabs.com/) and our instructor Caleb Tutty!*
