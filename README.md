@@ -30,4 +30,4 @@ J.) Distribution of Fraud Incidence based on State (Count and $ Amount)
 
 This Databricks Notebook contains our team's attempt to predict Credit Card Fraud using the XG Boost Algorithm. We tried using three different random seeds when doing the train-test split of the data. (42,75,99) We were able to get accuracy scores between 92-94% from using the XG Boost Algorithm.
 
-*Special thanks to [Eskwelabs](https://www.eskwelabs.com/) and our instructor Caleb Tutty!*
+*Special thanks to [Eskwelabs](https://www.eskwelabs.com/) and our instructor [Caleb Tutty](https://github.com/tuttinator)!*
